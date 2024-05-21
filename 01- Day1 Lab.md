@@ -8,23 +8,23 @@ Let's begin by setting up your ChatGPT account:
 2. Click on the `Try ChatGPT` button.
    ![OpenAI HomePage](media/OpenAI-homepage.png)
 3. In the following page, click on `Sign Up`
-   ![OpenAI HomePage](media/openai-homepage2.png)
+   ![OpenAI HomePage](media/OpenAI-homepage2.png)
 4. Fill in your email and create a password, or sign up directly with one of the 3 options below.
    ![OpenAI Signup](media/openai-signup1new.png)
    
 5. You will be sent a verification link to your email.
    ![OpenAI verification](media/openai-verificationnew.png)
 6. Check your email for a verification link and click on it.
-   ![OpenAI verification](media/email-verification.png)
+   ![OpenAI verification](media/Email-Verification.png)
 
 ## Step 2: Getting Comfortable with the Interface
 
 Now that you have an account, let's explore the ChatGPT interface:
 
 1. Log in using your newly created account.
-   ![OpenAI Login](media/openai-homepage-login.png)
+   ![OpenAI Login](media/OpenAI-homepage-login.png)
 2. Specify 'ChatGPT' from the following page.
-   ![OpenAI Login](media/openai-login-chatgpt.png)
+   ![OpenAI Login](media/OpenAI-Login-ChatGPT.png)
 3. Take a look around to see where things are located.
    Note that 'GPT-4' is locked at the top of the page, this is because the GPT-4 model is only available to ChatGPT Plus users
    ![ChatGPT interface](media/chatgpt-home-interfacenew.png)
@@ -191,7 +191,7 @@ To active this feature you have to:
 1. Visit the OpenAI Playground: [https://platform.openai.com/playground](https://platform.openai.com/playground)
 2. This is an interactive interface to experiment with various OpenAI models, including ChatGPT.
 3. Spend some time getting familiar with the interface and features available.
-   ![Playground Home](media/openai-playground-home.png)
+   ![Playground Home](media/OpenAI-Playground-home.png)
 
 **Note:** If 3 month have already passed for your OpenAI account creation, you will not be able to access your free tokens.
 However, if you just created your account you will have free tokens on your accounts to use in the playground or by calling ChatGPT with API key, if you does not spend your tokens, you will not be able to use them later after three months pass to the creation date.
