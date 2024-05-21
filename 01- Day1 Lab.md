@@ -6,7 +6,7 @@ Let's begin by setting up your ChatGPT account:
 
 1. Go to the [ChatGPT website](https://www.openai.com/chatgpt/).
 2. Click on the `Try ChatGPT` button.
-   ![OpenAI HomePage](media/openai-homepage.png)
+   ![OpenAI HomePage](media/OpenAI-homepage.png)
 3. In the following page, click on `Sign Up`
    ![OpenAI HomePage](media/openai-homepage2.png)
 4. Fill in your email and create a password, or sign up directly with one of the 3 options below.
